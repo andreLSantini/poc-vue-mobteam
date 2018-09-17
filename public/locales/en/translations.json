@@ -1,0 +1,23 @@
+{
+  "dashboard": {
+    "WELCOME": ""
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Type and hit enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": ""
+    },
+    "nav": {
+      "SINGLEVIEW": "",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  }
+}
